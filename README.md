@@ -24,7 +24,7 @@ Antes de usar a integração, você precisa:
 
 Crie um .env contendo:
 
-VIMEO_TOKEN=85c4cbe1aa9a33d63e0ef7e01adc26da
+VIMEO_TOKEN= (token do vimeo da conta que criou o video que quer puxar a transcrição)
 
 ▶️ 3. Como rodar o Script
 
